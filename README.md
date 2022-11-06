@@ -259,7 +259,7 @@ Figure -09 graph between temperature values and ADC output
 ## After simulation
 ![OUTPUT-2](IMG-02.png)
 ## Circuit Diagram
-![OUTPUT-3](IMG-03.png)
+![OUTPUT-3](IMG-03.PNG)
 
 
 
